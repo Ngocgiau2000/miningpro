@@ -16,8 +16,11 @@
 - 💞️ I’m looking to collaborate on any projects
 - 🌐 Website: [My Portfolio](https://www.youtube.com/@DevDienMining/)
 - 📫 How to reach me 👇
-<p> <a href="https://www.linkedin.com/in/alfred-nti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:alfrednti5000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> 
-<!--   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> --><a href="https://t.me/roddyfred"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a>  <a href="https://codeforces.com/profile/alfrednti"><img src="https://img.shields.io/badge/codeforces-%234566B5.svg?&style=for-the-badge&logo=codeforces&logoColor=white" height=23></a> <a href="https://twitter.com/intent/follow?screen_name=mr_freddy59"><img src="https://img.shields.io/twitter/follow/mr_freddy59?label=Twitter&style=for-the-badge&logo=twitter&logoColor=hsl(0%2C%20100%25%2C%20100%25)&labelColor=hsl(198%2C%20100%25%2C%2050%25)&color=hsl(198%2C%20100%25%2C%2050%25)" height=23></a></p>
+<p>
+    <a href="https://www.youtube.com/channel/yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a> <!-- Thay thế yourchannel bằng ID hoặc tên kênh YouTube của bạn -->
+    <a href="https://t.me/roddyfred"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a>
+    <a href="https://zalo.me/yourusername"><img src="https://img.shields.io/badge/Zalo-2E7D32?style=for-the-badge&logo=zalo&logoColor=white" height=23></a> <!-- Thay thế yourusername bằng tên người dùng Zalo của bạn -->
+</p>
 
 ## 🛠 Skills
 
