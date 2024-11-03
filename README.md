@@ -17,10 +17,11 @@
 - 🌐 Website: [My Portfolio](https://www.youtube.com/@DevDienMining/)
 - 📫 How to reach me 👇
 <p>
-    <a href="https://www.youtube.com/channel/yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a> <!-- Thay thế yourchannel bằng ID hoặc tên kênh YouTube của bạn -->
-    <a href="https://t.me/roddyfred"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a>
-    <a href="https://zalo.me/yourusername"><img src="https://img.shields.io/badge/Zalo-2E7D32?style=for-the-badge&logo=zalo&logoColor=white" height=23></a> <!-- Thay thế yourusername bằng tên người dùng Zalo của bạn -->
+    <a href="https://www.youtube.com/@DevDienMining"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a>
+    <a href="https://t.me/+wc_LOjYOlB83Mzk9"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a>
+    <a href="https://zalo.me/0899717143"><img src="https://img.shields.io/badge/Zalo-2E7D32?style=for-the-badge&logo=zalo&logoColor=white" height=23></a>
 </p>
+
 
 ## 🛠 Skills
 
