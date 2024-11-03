@@ -1,10 +1,5 @@
 
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<h1>
-  <a href="https://www.buymeacoffee.com/alfrednti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-</h1>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Freddywhest/Freddywhest" alt="Freddywhest">  
 
