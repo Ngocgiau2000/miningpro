@@ -42,8 +42,6 @@
 - IDE: VS code
 - Tools: Docker, ClickUp
 
-## 🔗 Connect with me
-[[linkedin]](https://www.linkedin.com/in/alfred-nti/)
 
 
 ## Hobbies
@@ -57,7 +55,3 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FreddyWhest&theme=react) __
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freddywhest&theme=react&langs_count=8&layout=compact)](https://github.com/freddywhest)<br/> 
 
-# ⚡️Today's Quote :
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&descAlignY=51&descAlign=62)
